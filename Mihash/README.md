@@ -11,7 +11,7 @@ from Mihash import *
 encrypt("abacus",md5,"hex")
 
 # Encrypt File
-encrypt("file.jpg",md5,"hex","output.as")
+encrypt_file("file.jpg",md5,"hex","output.as")
 
 # Decrypt Message
 decrypt("13f27b1072bbf7719d0d267b083ff91c",md5,"wordlist.txt")
