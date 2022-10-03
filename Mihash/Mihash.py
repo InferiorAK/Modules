@@ -1,8 +1,9 @@
+# Published Date: 4th Oct 2022 (GMT+6)
 #. Copyright (C) 2022   Mi Taseen
 
 __doc__ = """
-    Mihash
-*************
+    Mihash v.1
+****************
 The Module is Used for Hash Encoding and Decoding
 
 
