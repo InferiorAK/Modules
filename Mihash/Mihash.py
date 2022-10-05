@@ -14,7 +14,7 @@ license: Apache License 2.0, see LICENSE for more details.
 
 from hashlib import *
 import os
-from color import *
+from Mihash.color import *
 
 """
 Hash_Types:
