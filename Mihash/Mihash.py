@@ -1,5 +1,5 @@
 # Published Date: 4th Oct 2022 (GMT+6)
-#. Copyright (C) 2022   Mi Taseen
+#. Copyright (C) 2022  InferiorAK
 
 __doc__ = """
     Mihash v.1
