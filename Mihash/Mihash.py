@@ -1,5 +1,5 @@
 # Published Date: 4th Oct 2022 (GMT+6)
-#. Copyright (C) 2022  InferiorAK
+#. Copyright (C) 2022  FlamingAK
 
 __doc__ = """
     Mihash v.1
@@ -7,7 +7,7 @@ __doc__ = """
 The Module is Used for Hash Encoding and Decoding
 
 
-copyright: (c) 2022 by Mi Taseen
+copyright: (c) 2022 by FlamingAK
 license: Apache License 2.0, see LICENSE for more details.
 
 """
